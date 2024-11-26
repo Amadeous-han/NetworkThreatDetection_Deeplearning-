@@ -1,0 +1,2 @@
+model_checkpoint_path: "E:\\\345\244\247\345\233\233\344\270\213\346\257\225\344\270\232\350\256\276\350\256\241\\py_code\\NSL_KDD\\NLS_KDD_LSTM_and_DNN_master\\NSL_KDD_DNN\\model\\mlpmodel.ckpt-2000"
+all_model_checkpoint_paths: "E:\\\345\244\247\345\233\233\344\270\213\346\257\225\344\270\232\350\256\276\350\256\241\\py_code\\NSL_KDD\\NLS_KDD_LSTM_and_DNN_master\\NSL_KDD_DNN\\model\\mlpmodel.ckpt-2000"
